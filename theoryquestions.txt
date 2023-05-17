@@ -1,0 +1,50 @@
+*What is List? How will you reverse a list?
+=>a list is a collection of items or elements that are stored in a particular order.
+=>To reverse a list in Python, you can use the built-in reverse() method or slice notation. 
+
+*How will you remove last object from a list?
+=>To remove the last object from a list in Python, you can use the pop() method with no argument or you can use slice notation.
+*Suppose list1 is [2, 33, 222, 14, and 25], what is list1 [-1]?
+list1 [-1] is 25.
+
+*Differentiate between append () and extend () methods?
+=>The append() method is used to add a single element to the end of the list.
+=>The extend() method, on the other hand, is used to append multiple elements to the end of a list.
+
+*How will you compare two lists?
+=>To compare two lists in Python, you can use the == operator.
+
+*How will you create a dictionary using tuples in python?
+=>In Python, you can create a dictionary using tuples by passing a list of tuples to the dict() 
+constructor or by using dictionary comprehension.
+
+
+*How Do You Traverse Through A Dictionary Object In Python?
+=>In Python, you can traverse through a dictionary object using loops such as for loop.
+
+*How Do You Check The Presence Of A Key In A Dictionary?
+=>In Python, you can check the presence of a key in a dictionary using the in keyword or the get() method.
+
+*Why Do You Use the Zip () Method in Python?
+=>The zip() method in Python is used to combine multiple sequences (e.g., lists, tuples) into a single sequence of tuples.
+
+*How Many Basic Types Of Functions Are Available In Python?
+=>In Python, there are two basic types of functions:
+1)Built-in functions: 
+2)User-defined functions
+
+*How can you pick a random item from a list or tuple?
+=>In Python, you can use the random module to pick a random item from a list or tuple.
+
+*How can you pick a random item from a range?
+=>In Python, you can use the random module to pick a random item from a range.
+
+*How can you get a random number in python?
+In Python, you can use the random module to generate random numbers.
+
+*How will you set the starting value in generating random numbers?
+=>in Python, you can set the starting value for generating random numbers using the random.seed() function.
+
+*How will you randomizes the items of a list in place?
+=>In Python, you can randomize the items of a list in place using the random.shuffle() function
+
